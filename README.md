@@ -11,9 +11,9 @@ Our role is to design a RESTful API that allows each IoT enabled water tank to i
 
 Our API should also support the maintenance of a simple user profile.
 
-Your server should be able to perform the actions of a simple HTTP web server. The server should be able to perform actions on a resource such as Create, Read, Update and Delete. **This is to be done with the use of a mongodb database.**
+Our server should be able to perform the actions of a simple HTTP web server. The server should be able to perform actions on a resource such as Create, Read, Update and Delete. **This is to be done with the use of a mongodb database.**
 
-You server should be designed to host at least 7 specific HTTP routes. They are:
+Our server should be designed to host at least 7 specific HTTP routes. They are:
 
  ```py
  GET /profile
